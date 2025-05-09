@@ -3,6 +3,8 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 
 
 **Features:**
+
+
 **Add tasks:** Users can add new tasks with a task name and description.
 
 **Mark tasks as complete:** Tasks can be marked as done, with a visual indicator to distinguish them from pending tasks.
@@ -13,6 +15,8 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 
 
 **Technologies Used:**
+
+
 **HTML:** Structure of the application (task list, buttons, input fields, etc.).
 
 **CSS:** Styling and layout of the application for a clean and minimalistic look.
