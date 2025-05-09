@@ -3,10 +3,18 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 
 
 **Features:**
-Add tasks: Users can add new tasks with a task name and description.
+**Add tasks:** Users can add new tasks with a task name and description.
 
-Mark tasks as complete: Tasks can be marked as done, with a visual indicator to distinguish them from pending tasks.
+**Mark tasks as complete:** Tasks can be marked as done, with a visual indicator to distinguish them from pending tasks.
 
-Delete tasks: Users can remove tasks from the list when they're no longer needed.
+**Delete tasks:** Users can remove tasks from the list when they're no longer needed.
 
-Interactive UI: The app provides a user-friendly interface with dynamic updates without refreshing the page.
+**Interactive UI:** The app provides a user-friendly interface with dynamic updates without refreshing the page.
+
+
+**Technologies Used:**
+**HTML:** Structure of the application (task list, buttons, input fields, etc.).
+
+**CSS:** Styling and layout of the application for a clean and minimalistic look.
+
+**JavaScript:** Functionality for adding, marking, and deleting tasks dynamically.
